@@ -68,8 +68,8 @@ Pull Requests: 18%
 Code Review: 37%
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=asif-rumi&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="github stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asif-rumi&theme=radical" alt="streak stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rumi-asif&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="github stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rumi-asif&theme=radical" alt="streak stats" />
 </p>
 
 ## 🌟 What I Bring to the Table
