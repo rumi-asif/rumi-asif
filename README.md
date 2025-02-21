@@ -56,15 +56,15 @@ With over 3 years of professional experience, I specialize in building robust ba
 
 ## 📊 GitHub Contributions
 
-### 2025 Contributions: 194
-- Commits: 51%
-- Pull Requests: 27%
-- Code Review: 22%
+2025 Contributions: 194
+* Commits: 51%
+* Pull Requests: 27%
+* Code Review: 22%
 
-### 2024 Contributions: 1,682
-- Commits: 45%
-- Pull Requests: 18%
-- Code Review: 37%
+2024 Contributions: 1,682
+* Commits: 45%
+* Pull Requests: 18%
+* Code Review: 37%
 
 ## 🌟 What I Bring to the Table
 - Strong expertise in backend architecture and development
