@@ -41,4 +41,4 @@ With over 3 years of professional experience, I specialize in building robust ba
 - Full-stack development capabilities
 
 ## 📫 Let's Connect
-[Your social links and contact information can be added here]
+LinkedIn: https://www.linkedin.com/in/asif-rumi-0a4010157/
