@@ -54,17 +54,23 @@ With over 3 years of professional experience, I specialize in building robust ba
 - **Invyce** - Product Development
 - **Phuner** - Product Development
 
-## 📊 GitHub Contributions
-
+### 📊 GitHub Contributions
 2025 Contributions: 194
-* Commits: 51%
-* Pull Requests: 27%
-* Code Review: 22%
+
+Commits: 51%
+Pull Requests: 27%
+Code Review: 22%
 
 2024 Contributions: 1,682
-* Commits: 45%
-* Pull Requests: 18%
-* Code Review: 37%
+
+Commits: 45%
+Pull Requests: 18%
+Code Review: 37%
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=asif-rumi&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="github stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asif-rumi&theme=radical" alt="streak stats" />
+</p>
 
 ## 🌟 What I Bring to the Table
 - Strong expertise in backend architecture and development
